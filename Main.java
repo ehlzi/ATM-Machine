@@ -35,7 +35,7 @@ class Main {
             System.out.println();
             System.out.println("What would you like to do?");
             System.out.println();
-            System.out.println("1. View Vailable Balance\n2. Withdraw\n3. Deposit\n4. View Mini Statement\n5. Exit");
+            System.out.println("1. View Available Balance\n2. Withdraw\n3. Deposit\n4. View Mini Statement\n5. Exit");
             System.out.println();
             int userChoice = userInput.nextInt();
             
